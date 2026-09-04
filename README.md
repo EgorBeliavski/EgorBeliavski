@@ -16,4 +16,4 @@ a fully local voice-controlled note-taking and PC management app for Windows
 ### Contact
 
 - Email: [georgiebeliavski@gmail.com](mailto:georgiebeliavski@gmail.com)
-- Telegram: [твой_ник](https://t.me/go_straight_out_the_dirt)
+- Telegram: [@go_straight_out_the_dirt](https://t.me/go_straight_out_the_dirt)
