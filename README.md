@@ -7,7 +7,7 @@ a fully local voice-controlled note-taking and PC management app for Windows
 (Whisper.net + ONNX embeddings, no cloud, no subscriptions).
 
 ### Stack
-`C#` ` .NET` `MAUI` `Whisper.net` `ONNX Runtime` `SQLite`
+`C#` `.NET` `ASP.NET` `MAUI` `Whisper.net` `ONNX Runtime` `SQL` `Postgres`
 
 ### Projects
 - **[Vocon](https://github.com/EgorBeliavski/Vocon)** — Voice notes + system control, fully offline
